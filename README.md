@@ -4,6 +4,9 @@
 
 This is an enterprise-grade financial health assessment platform designed specifically for Small and Medium Enterprises (SMEs) in India. It leverages advanced AI analytics, industry benchmarking, and regulatory compliance checking to provide actionable financial insights and loan recommendations.
 
+## 🚀 Live Demo
+https://sme-financial-health-asessment-platform-b2zrelrx3gusclu9nszsbu.streamlit.app/
+
 ## 🎯 Key Features
 
 ### 1. **Financial Health Assessment**
